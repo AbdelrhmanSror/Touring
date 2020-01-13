@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Touring Musician</string>
+    <string name="startMessage">Tap on map to set concert sites.</string>
+    <string name="mode">Insert Mode</string>
+    <string name="reset">Reset</string>
+</resources>
